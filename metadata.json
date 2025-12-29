@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of SUN8 - Luxury Horology & Jewelry",
+  "description": "A premium e-commerce experience for high-end watches and jewelry, featuring an AI-powered personal concierge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
